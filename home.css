@@ -1,0 +1,17 @@
+*{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
+  @media (min-width: 990px) {
+    #intro-example {
+      height: 600px;
+    }
+  }
+
